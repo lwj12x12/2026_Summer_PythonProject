@@ -1,6 +1,6 @@
 import streamlit as st
 import yfinance
-import bs4 #nothing
+import bs4 #nothing 123
 
 st.title('股價查詢')
 
