@@ -1,5 +1,6 @@
 import streamlit as st
 import yfinance
+import bs4
 
 st.title('股價查詢')
 
