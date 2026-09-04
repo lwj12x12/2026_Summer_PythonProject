@@ -2,7 +2,7 @@ import requests
 import bs4
 
 # 常數
-TOKEN = '8947304426:AAH6OYccebLer1CTPMhKwdhWASgTeZ0TGL4'
+TOKEN = 'SOME TOKEN'
 GET_UPDATES_URL = f'https://api.telegram.org/bot{TOKEN}/getUpdates'
 SEND_MESSAGES_URL = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
 
